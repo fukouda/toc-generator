@@ -1,1 +1,1 @@
-# toc-generator
+# markdown-toc
