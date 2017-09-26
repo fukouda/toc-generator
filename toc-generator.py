@@ -15,7 +15,6 @@ def compiled_markdown(table_of_contents, old_lines, inline_tag, index):
     for x in it:
         yield x
 
-# def generate_toc(filename, new_filename = None):
 def generate_toc(**kwargs):
     """
     This function builds a symbol table for the different headings
