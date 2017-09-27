@@ -1,5 +1,5 @@
 # toc-generator
----
+
 A table of contents generator for Markdown files built in Python.
 
 ## Getting Started
