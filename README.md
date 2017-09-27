@@ -1,6 +1,7 @@
 # toc-generator
+*Built in Python.*
 
-A table of contents generator for Markdown files built in Python.
+A table of contents generator for Markdown files.
 
 ## Getting Started
 
